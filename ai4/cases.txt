@@ -1,0 +1,8 @@
+1) initial: on B A>on_table A>on_table C>clear B>clear C>arm_empty 
+final: on A B>on B C>on_table C>clear A>arm_empty  
+
+2) intial: on C A>on B D>on_table A>on_table D>clear C>clear B>arm_empty
+final: on A B>on B D>on_table D>on_table C>clear A>clear C>arm_empty
+
+3)intial: on B A>on_table A>on_table C>clear B>clear C>arm_empty 
+final: on A B>on B C>on_table C>clear A>arm_empty

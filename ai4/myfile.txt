@@ -1,0 +1,4 @@
+
+Entered Start State:- ['A on B, C on A']
+Entered Goal State:- [' C on B, B on A']
+Planning Stack:- [' C on B, B on A']Current State:- ['A on B, C on A']
